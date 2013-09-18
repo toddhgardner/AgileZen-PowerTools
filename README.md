@@ -6,7 +6,7 @@ Web application to consume the AgileZen API for project refactoring and bulk mod
 
 Setup
 ===================
-Add your project id and token to the main.js file. Run in any webserver.
+Add your project id and token to the namespace.js file. Run in any webserver.
 
 
 Notice: INCOMPLETE
